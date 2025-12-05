@@ -1,6 +1,6 @@
 # Hackclub-macropad
 
-A small programmable macropad for 3D modelling.
+A small programmable macropad for 3D modelling with 9 buttons.
 
 ![The macropad](image.png)
 ![The schematic](image-1.png)
