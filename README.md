@@ -3,8 +3,8 @@
 A small programmable macropad for 3D modelling with 9 buttons.
 
 ![The macropad](image.png)
-![The schematic](image-1.png)
-![The PCB](image-2.png)
+![The schematic](schematic.png)
+![The PCB](pcb.png)
 
 
 ## Bill of Materials for this project)
