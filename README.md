@@ -2,9 +2,9 @@
 
 A small programmable macropad for 3D modelling with 9 buttons.
 
-![The macropad](model1.png)
-![The schematic](schematic1.png)
-![The PCB](pcb1.png)
+![The macropad](model.png)
+![The schematic](schematic.png)
+![The PCB](pcb.png)
 
 
 ## Bill of Materials for this project)
@@ -13,10 +13,9 @@ A small programmable macropad for 3D modelling with 9 buttons.
 - 1× Seeed XIAO RP2040
 - 1x ssd1306 oled-0.91-128x32
 - 1× PCB
-- 2× SK6812 MINI-E LEDs
 - 4x M3x16mm screws
 - 4x M3x5mx4mm heatset inserts
-- - 9× MX-Style switches
+- 9× MX-Style switches
 - 9x Blank DSA keycaps (White)
 
 
