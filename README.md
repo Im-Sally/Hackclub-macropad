@@ -1,6 +1,6 @@
 # Hackclub-macropad
 
-A small programmable macropad for 3D modelling with 9 buttons and an OLED screen.
+A small programmable macropad for 3D modelling with 9 buttons and an OLED screen. The OLED is mounted in the lid so if I'd like to change it down the line it's as simple as desoldering 4 wires and printing a new lid. The OLED is connected to the PCB via 4 wires that are soldered to the pads in the top right of the board. 
 
 ![The macropad](model.png)
 ![The schematic](schematic.png)
