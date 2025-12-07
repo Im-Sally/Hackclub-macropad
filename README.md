@@ -19,7 +19,6 @@ A small programmable macropad for 3D modelling with 9 buttons, an OLED screen an
 ![The full model of the macropad](Images/model.png)
 ![The macropad model without the top cover](Images/no_top.png)
 ![Mounting points for the PCB](Images/PCB_mounting_points.png)
-![OLED view from the top](Images/OLED_top.png)
 ![OLED view from the bottom](Images/OLED_bottom.png)
 ![Example of how the OLED will be connected](Images/OLED_wires.png)
 ![The schematic for the PCB](Images/schematic.png)
